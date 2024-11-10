@@ -1,0 +1,9 @@
+node_modules
+dist
+logs
+package
+sessions
+.DS_Store
+proxies.txt
+results.txt
+config.json
