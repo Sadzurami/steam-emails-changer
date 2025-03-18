@@ -1,5 +1,7 @@
 # Steam Emails Changer
 
+**Archived: Kopeechka.store is shut down.**
+
 Simple app to change emails on Steam accounts
 
 ## Features
